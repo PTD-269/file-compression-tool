@@ -25,5 +25,5 @@ File Compression Tool is a simple utility that compresses and decompresses text 
 
 - `compress.c`: Handles the compression logic
 - `decompress.c`: Handles the decompression logic
-- `fileio.c` and `fileio.h`: Contains common file I/O functions
+- `fileio.c`: Contains common file I/O functions
 - `main.c`: Main program to handle user input and call appropriate functions
